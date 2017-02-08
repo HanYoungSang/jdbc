@@ -15,4 +15,6 @@ public class HRSalary {
 		
 		scanner.close();
 	}
+	
+	
 }
